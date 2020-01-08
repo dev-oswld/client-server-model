@@ -1,9 +1,9 @@
-# Client Server Model :computer:
+# Modelo Cliente/Servidor :computer:
 
 [![Java](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 ## Definición del sistema
-Este sistema esta basado en el modelo de Cliente – Servidor que utiliza las funcionalidades
+Este sistema esta basado en el modelo de Cliente/Servidor que utiliza las funcionalidades
 de Sockets para establecer una conexión de TCP. Elaborado para la materia de _Sistemas Distribuidos y Paralelos_.
 
 ## Objetivo
